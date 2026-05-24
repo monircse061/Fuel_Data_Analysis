@@ -133,4 +133,4 @@ If you use this repository, please cite the associated manuscript.
 
 ## Contact
 
-For questions regarding the code or manuscript, please contact the repository author.
+For questions regarding the code or manuscript, please contact me at monirahammod097@gamil.com
